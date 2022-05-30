@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>style.css</file>
+	<file>Roboto.ttf</file>
+	<file>B.png</file>
+	<file>mod.png</file>
+	<file>icon.png</file>
+	<file>rank1lp.png</file>
+	<file>rank2lp.png</file>
+	<file>rank3lp.png</file>
+	<file>rank4lp.png</file>
+	<file>rank5lp.png</file>
+	<file>rank6lp.png</file>
+	<file>rank7lp.png</file>
+	<file>rank8lp.png</file>
+	<file>rank9lp.png</file>
+	<file>rank10lp.png</file>
+	<file>rank11lp.png</file>
+	<file>rank12lp.png</file>
+	<file>rank13lp.png</file>
+	<file>rank14lp.png</file>
+	<file>rank15lp.png</file>
+	<file>rank1.png</file>
+	<file>rank2.png</file>
+	<file>rank3.png</file>
+	<file>rank4.png</file>
+	<file>rank5.png</file>
+	<file>rank6.png</file>
+	<file>rank7.png</file>
+	<file>rank8.png</file>
+	<file>rank9.png</file>
+	<file>rank10.png</file>
+	<file>rank11.png</file>
+	<file>rank12.png</file>
+	<file>rank13.png</file>
+	<file>rank14.png</file>
+	<file>rank15.png</file>
+    </qresource>
+</RCC>
