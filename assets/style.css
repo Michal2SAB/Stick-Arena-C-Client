@@ -1,0 +1,13 @@
+*{
+    background-color: rgb(31, 41, 50);
+    font-family: "Roboto Medium";
+    color: rgb(255, 255, 255);
+}
+
+#user_list{
+    color: rgb(30, 40, 90);
+}
+
+QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical{
+    background: gray;
+}
